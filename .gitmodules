@@ -1,0 +1,3 @@
+[submodule "Foundry-Smart-Lottery/lib/forge-std"]
+	path = Foundry-Smart-Lottery/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
